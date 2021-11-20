@@ -1,8 +1,8 @@
 # sgwsbp1-92942919
-Project: Space Guide WEB_V1, 
-Author: MxMarz, 
-Type: Skill Building, 
-Date: 11/19/21
+- Project: Space Guide WEB_V1
+- Author: MxMarz 
+- Type: Skill Building 
+- Date: 11/19/21
 
 Description
 👋 Hello, this is one of many skill building projects I'll upload to GitHub to keep track of what I've learned, things I could improve upon, and other things. Some of these projects in the "Skill Building" category are either public or private, really depends.
