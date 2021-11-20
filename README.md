@@ -1,5 +1,4 @@
-# sgwsbp1-92942919
-- Project: Space Guide WEB_V1
+# Project: Space Guide WEB_V1
 - Author: MxMarz 
 - Type: Skill Building 
 - Date: 11/19/21
