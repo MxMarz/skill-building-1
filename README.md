@@ -1,9 +1,9 @@
 # Project: Space Guide WEB_V1
 
-Author: MxMarz
-Type: Personal Skill Building Project
-Date: 11/19/21
-Repository Updated: 2/5/21 (Made Public)
+- Author: MxMarz
+- Type: Personal Skill Building Project
+- Date: 11/19/21
+- Repository Updated: 2/5/21 (Made Public)
 
 ---
 
